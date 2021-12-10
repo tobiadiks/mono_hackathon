@@ -1,0 +1,1 @@
+This is the backend API for the Mono Hackathon competition project organized by Ingressive for good
